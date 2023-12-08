@@ -12,7 +12,11 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1698089371,,"wq!"
+|2,0,1702060992,,"wq!"
+:q!
+|2,0,1702060891,,"q!"
+:q1`
+|2,0,1702059437,,"q1`"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +27,284 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+	comm01_project
+|3,0,1,1,1,0,1702060940,"comm01_project"
+""-	CHAR	0
+	s
+|3,1,36,0,1,0,1702060963,"s"
 
 # File marks:
-'0  174  62  /opt/.gitignore
-|4,48,174,62,1698089371,"/opt/.gitignore"
+'0  13  0  ~/.gitignore
+|4,48,13,0,1702060992,"~/.gitignore"
+'1  2  0  ~/.gitignore
+|4,49,2,0,1702060911,"~/.gitignore"
+'2  2  0  ~/.gitignore
+|4,50,2,0,1702060911,"~/.gitignore"
+'3  1  0  ~/.gitconfig
+|4,51,1,0,1702060891,"~/.gitconfig"
+'4  1  0  ~/ecomm01_project/.gitignore
+|4,52,1,0,1702059440,"~/ecomm01_project/.gitignore"
+'5  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,53,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+'6  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,54,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+'7  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,55,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+'8  2  4  ~/ecomm01_project/.gitignore
+|4,56,2,4,1702059281,"~/ecomm01_project/.gitignore"
+'9  2  4  ~/ecomm01_project/.gitignore
+|4,57,2,4,1702059281,"~/ecomm01_project/.gitignore"
 
 # Jumplist (newest first):
--'  174  62  /opt/.gitignore
-|4,39,174,62,1698089371,"/opt/.gitignore"
--'  1  0  /opt/.gitignore
-|4,39,1,0,1698089365,"/opt/.gitignore"
+-'  13  0  ~/.gitignore
+|4,39,13,0,1702060992,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1702060915,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1702060911,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1702060899,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1702060899,"~/.gitignore"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1702060891,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1702060891,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1702060891,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1702060891,"~/.gitconfig"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  1  0  ~/ecomm01_project/.gitignore
+|4,39,1,0,1702059440,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  2  4  ~/ecomm01_project/.gitignore
+|4,39,2,4,1702059428,"~/ecomm01_project/.gitignore"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  87  20  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,87,20,1702059382,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059342,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  86  16  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,86,16,1702059341,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
+-'  1  0  ~/ecomm01_project/ecomm01_project/settings.py
+|4,39,1,0,1702059302,"~/ecomm01_project/ecomm01_project/settings.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1702060990	0
+	"	13	0
+	^	13	0
+	.	13	0
+	+	1	5
+	+	13	66
+	+	4	0
+	+	5	0
+	+	3	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	8	6
+	+	9	3
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	y	9	0
+
+> ~/.gitconfig
+	*	1702060889	0
+	"	1	0
+
+> ~/ecomm01_project/.gitignore
+	*	1702059438	0
+	"	1	0
+	^	1	0
+	.	3	0
+	+	2	4
+	+	3	0
+
+> ~/ecomm01_project/ecomm01_project/settings.py
+	*	1702059380	0
+	"	87	20
+	^	87	21
+	.	87	21
+	+	87	21
+	+	86	17
+	+	85	17
+	+	86	17
+	+	87	21
 
 > /opt/.gitignore
 	*	1698089369	0
